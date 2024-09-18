@@ -1,6 +1,6 @@
 import React from "react";
 import "./Main.css";
-import BgVideo from "../../assets/Videos/BgVideo1.mp4";
+import BgVideo from "../../assets/Videos/EditedBgVideo.mp4";
 const Main = () => {
   return (
     <>
