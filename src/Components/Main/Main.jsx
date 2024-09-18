@@ -58,7 +58,7 @@
 
 import React, { useState, useEffect, useRef } from "react";
 import "./Main.css";
-import BgVideo from "../../assets/Videos/EditedBgVideo.mp4";
+import BgVideo from "../../assets/Videos/EditedBgVideoCom.mp4";
 import { motion, AnimatePresence } from "framer-motion";
 
 const roles = [
