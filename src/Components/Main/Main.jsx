@@ -152,7 +152,11 @@ const Main = () => {
             </AnimatePresence>
           </span>
         </h1>
-        <p>Some description or subtext can go here.</p>
+        <p>Designing and developing websites with a perfect blend of functionality and aesthetics, ensuring every pixel serves a purpose and every interaction delights.</p>
+
+        <button className="mainBtn">
+          Contact Me
+        </button>
       </div>
     </main>
   );
