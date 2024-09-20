@@ -16,11 +16,11 @@ const Navbar = () => {
         </ul>
 
         <div className="social-icons-div">
-        <i class="fa-brands fa-github"></i>
-        <i class="fa-brands fa-linkedin-in"></i>
-        <i class="fa-brands fa-whatsapp"></i>
-        <i class="fa-brands fa-instagram"></i>
-        <i class="fa-brands fa-facebook-f"></i>
+        <i className="fa-brands fa-github"></i>
+        <i className="fa-brands fa-linkedin-in"></i>
+        <i className="fa-brands fa-whatsapp"></i>
+        <i className="fa-brands fa-instagram"></i>
+        <i className="fa-brands fa-facebook-f"></i>
         </div>
       </nav>
     </>
