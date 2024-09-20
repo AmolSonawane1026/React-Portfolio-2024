@@ -1,0 +1,33 @@
+.MacBookMainDiv{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centerImg{
+    position: absolute;
+    height: 330px;
+    width: auto;
+    z-index: 9999;
+}
+.leftImg{
+    position: absolute;
+    height: 200px;
+    width: auto;
+    left: 300px;
+}
+
+.rightImg{
+    position: absolute;
+    height: 200px;
+    width: auto;
+    right: 300px;
+}
+
+.blob{
+    height: 600px;
+    width: auto;
+}
